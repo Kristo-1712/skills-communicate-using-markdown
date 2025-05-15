@@ -7,3 +7,12 @@ I am just exploring how this works
 
 
 This is a first test of using markdown and is not meant to convey anything meaningful
+
+
+# Here is an example of some code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
